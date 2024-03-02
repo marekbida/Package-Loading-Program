@@ -1,6 +1,6 @@
 #pierwszy input usera.
 num_items = int(input("Enter the number of items to be sent: ")) # int w tej lini wymusza na programie zeby wprowadzona wartoc potraktowal jako kliczbe calkowita.
-
+asdflaskdfjlksadjfy
 # zmienne (var) dla info o paczkach.
 packages = [] # [] oznacza liste ktora jest pusta w poczatkowej formie. Lista ta bedzie sie zmieniac podczas egzekucji programu.
 current_package = [] 
