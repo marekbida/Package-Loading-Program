@@ -3,7 +3,7 @@ num_items = int(input("Enter the number of items to be sent: ")) # int w tej lin
 
 # zmienne (var) dla info o paczkach.
 packages = [] # [] oznacza liste ktora jest pusta w poczatkowej formie. Lista ta bedzie sie zmieniac podczas egzekucji programu.
-current_package = [] 
+current_package = [] #jak powyzej 
 total_weight = 0 #tutaj jest 0 jako poczatkowa wartosc ale user bedzie mial mozliwosc wprowadzania roznych wartosci podczas wykonywania programu.
 max_package_capacity = 20 #ta wartosc sie nie zmieni, bo to jest maksymalna akceptowalna waga paczki
 
