@@ -52,4 +52,4 @@ max_empty_space = max(max_package_capacity - sum(package) for package in package
 print("Number of sent packages:", len(packages))
 print("Weight of sent packages:", [sum(package) for package in packages])
 print("Leftover weight:", max_package_capacity * len(packages) - sum(sum(package) for package in packages))
-print("Package with the most empty space:", max_empty_space)
+print("Package with the most empty space:", max_empty_space) #sprawdzic czy wynik daje poprawna wartosc.
