@@ -1,0 +1,14 @@
+# 1. Ask user for the number of items
+# ---Inside for loop ---
+# 2. Ask user for the weight of each item
+# 3. Check if the weight is between 1 and 10 kg
+# 4. If the weight is between 1 and 10 kg, add it to the package
+# 5. If the weight is not between 1 and 10 kg, print an error message and stop the program
+# 6. If the weight is between 1 and 10 kg and the package is full, send the item and start a new one
+# 7. If the weight is between 1 and 10 kg and the package is not full, add the weight to the package
+# 8. If the weight is between 1 and 10 kg and the package is not full and it is the last item, send the package
+# --- After for loop ---
+# 9. Print the number of sent packages
+# 10. Print the weight of sent packages
+# 11. Print the leftover weight
+# 12. Print the package with the most empty space
