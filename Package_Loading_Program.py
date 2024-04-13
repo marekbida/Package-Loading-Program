@@ -1,4 +1,4 @@
-num_items = int(input("Enter the number of items to be sent: ")) # int w tej lini wymusza na programie zeby wprowadzona wartoc potraktowal jako kliczbe calkowita.
+num_items = int(input("Enter the number of items to be sent: ")) # int w tej lini wymusza na programie zeby wprowadzona wartosc potraktowal jako liczbe calkowita.
 package_weight = 0
 total_weight = 0
 num_of_packages = 0
@@ -39,13 +39,3 @@ print(f"Nie wykorzystana waga to {unused_weight} kg.")
 print(f"w sumie wyslalismy {total_weight} kg")
 print(f"W sumie wyslalismy {num_of_packages} paczek.")
 print(f"Paczka nr {package_number_that_had_the_most_unused_capacity} miala {max_unused_kg} nie wykorzystanej wagi")
-
-
-
-
-wojciech.niekrasz@gmail.com
-
-
-
-
-
